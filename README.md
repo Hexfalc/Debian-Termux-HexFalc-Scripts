@@ -39,3 +39,18 @@ Scroll down using termux's arrow keys to "root    ALL=(ALL:ALL) ALL" line and ad
 
 ![Screenshot_2023-02-26-15-30-29-92_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/84611854/221416817-0c8e2b7f-a82d-494a-8327-91fd8464c020.jpg)
 
+Now press termux's Ctrl + X, then y and press Enter to save.
+
+Now you can login to your user using "su [your user name here]".
+
+### Login to user directly when typing "debian" command
+
+If you want to login into your user everytime you type "debian", exit Debian and return to Termux using "exit". If it return to Debian root user retype "exit".
+
+Outside Debian, in Termux, use the command "nano $PREFIX/bin/debian" and something like this will showup:
+
+Now add "--user [add your user name here]" after "proot-distro login debian".
+
+Now like before press Ctrl + X, then y and and after Enter to save.
+
+Now use the command "debian" and you should be directly in your user.
