@@ -31,7 +31,7 @@ You succefully installed Debian, now you can login into it using "debian" comman
 
 You can exit from Debian by typing "exit".
 
-## 2 Creating your own user in Debian
+## 2. Creating your own user in Debian
 
 Now login into Debian and use "apt update" to update the packages.
 
@@ -54,7 +54,7 @@ Now press termux's Ctrl + X, then y and press Enter to save.
 
 Now you can login to your user using "su [add your user name here]".
 
-### 2.5 Login to user directly when typing "debian" command
+### 2.5. Login to user directly when typing "debian" command
 
 If you want to login into your user everytime you type "debian", exit Debian and return to Termux using "exit". If it return to Debian root user retype "exit".
 
