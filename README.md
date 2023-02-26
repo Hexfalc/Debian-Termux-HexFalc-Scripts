@@ -20,3 +20,16 @@ After the script finishes doing everything you will see this:
 ![Screenshot_2023-02-26-14-53-44-92_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/84611854/221415119-a31eb52f-dd60-4574-956f-1bbeaccc24f4.jpg)
 
 You succefully installed Debian, now you can login into it using "debian" command or using "proot-distro login debian".
+
+You can exit from Debian by typing "exit".
+
+## Creating your own user in Debian
+
+Now login into Debian and use "apt update" to update the packages.
+
+Now install sudo and nano by using "apt install sudo and nano".
+
+Now add your own user using "adduser [add your user name here]" and follow the instructions, you can skip the other stuff after typing and confirming your new password pressing simply enter on your phone keyboard.
+
+After you setuped your user, use the command "nano /etc/sudoers" and a screen like this will show up:
+
