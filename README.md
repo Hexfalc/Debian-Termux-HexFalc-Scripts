@@ -8,4 +8,8 @@ At the moment there is only one script and a tutorial to only install a GUI vers
 
 I'm not good at this things so feel free to give suggestions and report issues and mistakes in the issue and pull request sections.
 
+# Installation Istructions
+You can find installation instructions here:
+
+https://github.com/Hexfalc/Debian-Termux-HexFalc-Scripts/blob/main/Installation.md
 
