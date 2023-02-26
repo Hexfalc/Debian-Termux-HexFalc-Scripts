@@ -1,6 +1,10 @@
 # HexFalc's Debian Termux Scripts
 Just some shitty scripts I made for fast installing Debian using proot-distro
 
+At the moment there is only one script and a tutorial to only install a GUI version of Debian.
+
+I'm not good at this things so feel free to give suggestions and report mistakes in the issue and pull request sections.
+
 # Tutorial
 ## Installing Debian
 Open Termux and use this command:
