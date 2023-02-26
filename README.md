@@ -33,3 +33,5 @@ Now add your own user using "adduser [add your user name here]" and follow the i
 
 After you setuped your user, use the command "nano /etc/sudoers" and a screen like this will show up:
 
+![Screenshot_2023-02-26-15-23-46-08_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/84611854/221416463-8aa78d7a-b50a-4979-a12e-0e5e77f5b117.jpg)
+
