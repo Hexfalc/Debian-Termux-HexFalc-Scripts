@@ -9,7 +9,8 @@ At the moment there is only one script and a tutorial to only install a GUI vers
 I'm not good at this things so feel free to give suggestions and report issues and mistakes in the issue and pull request sections.
 
 # Tutorial
-## Installing Debian
+
+## 1. Installing Debian
 Open Termux and use this command:
 
 [
@@ -30,7 +31,7 @@ You succefully installed Debian, now you can login into it using "debian" comman
 
 You can exit from Debian by typing "exit".
 
-## Creating your own user in Debian
+## 2 Creating your own user in Debian
 
 Now login into Debian and use "apt update" to update the packages.
 
@@ -53,7 +54,7 @@ Now press termux's Ctrl + X, then y and press Enter to save.
 
 Now you can login to your user using "su [add your user name here]".
 
-### Login to user directly when typing "debian" command
+### 2.5 Login to user directly when typing "debian" command
 
 If you want to login into your user everytime you type "debian", exit Debian and return to Termux using "exit". If it return to Debian root user retype "exit".
 
