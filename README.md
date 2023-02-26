@@ -17,7 +17,7 @@ curl -LO https://raw.githubusercontent.com/Hexfalc/Debian-Termux-HexFalc-Scripts
 
 ![Screenshot_2023-02-26-14-49-45-77_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/84611854/221415030-e643eebc-73d2-45aa-82c8-23acae775bfe.jpg)
 
-This will update Termux packages and install proot-distro to install Debian.
+This will install a script, that will update Termux packages and install proot-distro to install Debian.
 
 After the script finishes doing everything you will see this:
 
@@ -45,7 +45,7 @@ Scroll down using termux's arrow keys to "root    ALL=(ALL:ALL) ALL" line and ad
 
 Now press termux's Ctrl + X, then y and press Enter to save.
 
-Now you can login to your user using "su [your user name here]".
+Now you can login to your user using "su [add your user name here]".
 
 ### Login to user directly when typing "debian" command
 
