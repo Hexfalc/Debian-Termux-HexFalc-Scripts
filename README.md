@@ -1,3 +1,6 @@
+![db](https://user-images.githubusercontent.com/84611854/221420059-a86b22a1-00a1-4360-b254-498375c475ac.png)
+
+
 # HexFalc's Debian Termux Scripts
 Just some shitty scripts I made for fast installing Debian using proot-distro
 
@@ -45,6 +48,9 @@ Scroll down using termux's arrow keys to "root    ALL=(ALL:ALL) ALL" line and ad
 
 Now press termux's Ctrl + X, then y and press Enter to save.
 
+![Screenshot_2023-02-26-15-33-45-34_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/84611854/221419058-59e043a9-71f3-4bf5-8082-6869adea18d8.jpg)
+
+
 Now you can login to your user using "su [add your user name here]".
 
 ### Login to user directly when typing "debian" command
@@ -53,8 +59,16 @@ If you want to login into your user everytime you type "debian", exit Debian and
 
 Outside Debian, in Termux, use the command "nano $PREFIX/bin/debian" and something like this will showup:
 
+![Screenshot_2023-02-26-15-48-12-29_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/84611854/221419037-e327a253-beb4-4788-a4df-50064f34e260.jpg)
+
+
 Now add "--user [add your user name here]" after "proot-distro login debian".
+
+![Screenshot_2023-02-26-15-48-50-86_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/84611854/221419126-265eddc3-9b6b-470b-8e76-b928b5be8ca7.jpg)
+
 
 Now like before press Ctrl + X, then y and and after Enter to save.
 
 Now use the command "debian" and you should be directly in your user.
+
+![Screenshot_2023-02-26-15-51-07-01_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/84611854/221419191-21ecc017-823d-41a3-aa57-1860bd68d681.jpg)
