@@ -1,4 +1,4 @@
-![db](https://user-images.githubusercontent.com/84611854/221420059-a86b22a1-00a1-4360-b254-498375c475ac.png)
+![db](https://user-images.githubusercontent.com/84611854/221420239-9745ac95-bdb1-44bc-968e-4919f53344a0.png)
 
 
 # HexFalc's Debian Termux Scripts
